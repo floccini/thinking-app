@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## JSON Server
 
-Run `cd backend` to enter the backend folder where the JSON Server is located, and run `npm start` to execute the JSON Server.
+Run `cd backend` to enter the backend folder, and run `npm start` to execute the JSON Server.
 
 ## Code scaffolding
 
