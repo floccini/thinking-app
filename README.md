@@ -8,6 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## JSON Server
 
+-- This step is obligatory if you want to execute the CRUD operations without directly updating your actions in the db.json file.
 Run `cd backend` to enter the backend folder, and run `npm start` to execute the JSON Server.
 
 ## Code scaffolding
